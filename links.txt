@@ -1,0 +1,5 @@
+Link a la API del cotizador
+https://min-api.cryptocompare.com/
+
+Link al spinner de carga
+https://tobiasahlin.com/spinkit/
