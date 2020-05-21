@@ -1,4 +1,4 @@
-const YOUR_API_KEY = 'a6b200d5b44a6811e928b6e79df61b9ff668984e5087bec47ba7c1eec4130e66';
+const YOUR_API_KEY = 'XXXXXXXXXXXXXXXXXX'; // You have to login to CryptoCompare website and insert here your own api_key
 const cotizador = new API(YOUR_API_KEY);
 const ui = new Interfaz();
 
